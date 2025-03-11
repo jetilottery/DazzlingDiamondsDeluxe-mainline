@@ -1,0 +1,88 @@
+﻿{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Retorno Esperado",
+    "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+    "subheading": "Custo do Bilhete: {ticketCost}",
+    "prizeLevel": "Nível do Prêmio",
+    "description": "Descrição",
+    "prizeValue": "Valor do Prêmio",
+    "descriptionText1": "Prêmio de Acerto de Número",
+    "descriptionText2": "Prêmio do Bônus"
+  },
+  "title": "Diamantes Cintilantes Deluxe",
+  "MenuCommand": {
+    "price": "Preço",
+    "stake": "Aposta",
+    "howToPlay": "Ajuda",
+    "paytable": "Tabela de Pagamento",
+    "close": "Fechar",
+    "audio": {
+      "sound": "Som",
+      "on": "Ativado",
+      "off": "Desativado"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erro: ",
+    "genericErrorText": "Ocorreu um erro interno. SAIA do jogo e reinicie novamente."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "CUSTO DO BILHETE",
+    "ticketSelect_ticketCost": "CUSTO DO BILHETE",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TENTAR "
+    },
+    "footer_win": {
+      "BUY": "PRÊMIO",
+      "TRY": "PRÊMIO DA DEMONSTRAÇÃO"
+    },
+
+    "button_buy": {
+      "BUY": "COMPRAR",
+      "TRY": "TENTAR"
+    },
+    "button_try": "TENTAR",
+    "button_continue": "CONTINUAR",
+    "button_moveToMoney": "PASSAR PARA DINHEIRO",
+    "button_autoPlay": "REVELAR TUDO",
+    "button_stop": "PARAR",
+    "button_playAgain":{
+      "BUY": "JOGAR NOVAMENTE",
+      "TRY": "TENTAR NOVAMENTE"
+    },
+    "button_tryAgain": "TENTAR NOVAMENTE",
+    "button_ok": "OK",
+    "button_exit": "SAIR",
+    "button_retry": "TENTAR NOVAMENTE",
+    "error_button_exit": "SAIR",
+    "error_title": "ERRO",
+    
+    "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+    "message_win": {
+      "BUY": "PRÊMIO TOTAL",
+      "TRY": "PRÊMIO TOTAL DA DEMONSTRAÇÃO"
+    },
+
+    "howToPlay": "COMO JOGAR",
+    "page1": "Seus Números devem ser iguais aos Números da Sorte para você ganhar um prêmio.\n\nRevele um símbolo de 2x para dobrar o valor do prêmio.\n\nRevele um Anel de Diamante e ganhe todos os prêmios instantaneamente.\n\nRevele 5 Estrelas de Bônus nos Seus Números para entrar no Jogo Bônus.",
+    "page2": "JOGO BÔNUS\n\nEncontre 3 ou mais Broches de Diamante para ganhar um prêmio.\n\nRevele 3 X's ou ganhe o prêmio principal para encerrar o jogo.",
+
+    "winUpToText": "GANHE ATÉ",
+    "winUpToValue": "{0}!",
+    "bonus": "Bônus",
+    "bonusNoWin": "SEM PRÊMIO DE BÔNUS",
+    "bonusWin": "BÔNUS: {0}",
+
+    "winAll":"GANHE TUDO",
+    "bonusLives":"Encontre 3 para encerrar o bônus",
+    "bonusInfo":"Encontre 3 ou mais broches de diamante para ganhar!",
+    
+    "yourNumbers": "Seus Números",
+    "luckyNumbers": "Números da Sorte"
+  }
+}

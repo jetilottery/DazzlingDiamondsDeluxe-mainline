@@ -1,0 +1,33 @@
+
+bigWin.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+placeholder
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+bigWin.jpg
+size: 1221,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/godRays
+  rotate: false
+  xy: 780, 2
+  size: 439, 435
+  orig: 590, 615
+  offset: 9, 171
+  index: -1
+FX/plaqueGlow
+  rotate: false
+  xy: 2, 156
+  size: 776, 281
+  orig: 788, 289
+  offset: 6, 4
+  index: -1

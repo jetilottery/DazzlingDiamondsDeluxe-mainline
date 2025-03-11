@@ -1,0 +1,92 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+    "subheading": "Opłata za LOS: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "description": "Opis",
+    "prizeValue": "Wartość wygranej",
+    "descriptionText1": "Wygrana dopasowanej liczby",
+    "descriptionText2": "Wygrana bonusowa",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na  {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostało do wygrania",
+    "oddsPerPlay": "Szansa na wygraną"  
+  },
+  "title": "Dazzling Diamonds Deluxe",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "button_retry": "SPRÓBUJ PONOWNIE",
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_win": {
+      "BUY": "WYGRANA ŁĄCZNA",
+      "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+    },
+
+    "howToPlay": "ZASADY GRY",
+    "page1": "Dopasuj liczby do szczęśliwych liczb i wygraj nagrodę.\n\nOdkryj symbol 2x, aby podwoić kwotę nagrody.\n\nOdkryj pierścień z diamentem i natychmiast wygraj wszystkie nagrody.\n\nOdkryj 5 gwiazd bonusu w swoich liczbach, aby wejść do gry bonusowej.",
+    "page2": "GRA BONUSOWA\n\nZnajdź co najmniej 3 symbole diamentowych broszek, aby wygrać nagrodę.\n\nOdkryj 3 symbole X lub wygraj nagrodę główną, aby zakończyć grę.",
+
+    "winUpToText": "WYGRAJ DO",
+    "winUpToValue": "{0}!",
+    "bonus": "Bonus",
+    "bonusNoWin": "BRAK WYGRANEJ BONUSU",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"WYGRAJ WSZYSTKO",
+    "bonusLives":"Znajdź 3, aby zakończyć bonus",
+    "bonusInfo":"Znajdź co najmniej 3 diamentowe broszki, aby wygrać!",
+    
+    "yourNumbers": "Twoje liczby",
+    "luckyNumbers": "Szczęśliwe liczby"
+  }
+}
